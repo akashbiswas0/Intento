@@ -127,7 +127,7 @@ export default function BridgeUI() {
       <div className="dark:bg-background bg-background min-h-screen text-foreground transition-colors duration-300">
         {/* Navbar */}
         <nav className="flex justify-between items-center p-4 bg-card shadow-sm">
-          <h1 className="text-2xl font-bold text-primary">Intento-AVS</h1>
+          <h1 className="text-2xl font-bold text-primary">Intent-AVS</h1>
           <div className="flex items-center space-x-4">
             <Button 
               variant="outline" 
